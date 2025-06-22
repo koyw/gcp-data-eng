@@ -36,4 +36,6 @@ steps:
       'push',
       'gcr.io/$PROJECT_ID/cicd-basic:latest'
     ]
-  
+
+options:
+  logging: CLOUD_LOGGING_ONLY  
