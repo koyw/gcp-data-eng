@@ -13,7 +13,7 @@
 # limitations under the License.
 
 def sum_two_values(arg_1: int, arg_2: int):
-    result = arg_1 + arg_2
+    result = arg_1 * arg_2
     return result
 
 
